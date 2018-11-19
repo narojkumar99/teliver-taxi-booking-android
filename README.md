@@ -1,2 +1,2 @@
 # teliver-taxi-booking-android
-Taxi Booking App demo
+Taxi Bookings App demo
